@@ -1,0 +1,10 @@
+* Weekly Report on Invariant project 
+
+
+** Literature Review 
+
+
+** Tasks within the week
+- [X] Getting Vampire code and compiled 
+- [ ] 
+-
